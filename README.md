@@ -23,5 +23,10 @@ npm run build
 npm run lint
 ```
 
+### Use of Render
+- Check out [real-world-vue-3-simon.onrender.com](https://real-world-vue-3-simon.onrender.com) for latest build
+- Check out [dashboard.render.com/static/srv-c0tuus5c2rvuajh55j00/pulls](https://dashboard.render.com/static/srv-c0tuus5c2rvuajh55j00/pulls) for PRs
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
